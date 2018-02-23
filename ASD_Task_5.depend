@@ -7,3 +7,18 @@
 	<windows.h>
 	<iostream>
 
+1519402037 source:c:\users\helmi.ruslan\documents\strukdat\task\asd_task_5\list.cpp
+	"list.h"
+
+1519402088 c:\users\helmi.ruslan\documents\strukdat\task\asd_task_5\list.h
+	<string>
+	<windows.h>
+	<iostream>
+
+1519402037 source:c:\users\helmi.ruslan\documents\strukdat\task\asd_task_5\player.cpp
+	"player.h"
+	<ctime>
+
+1519402180 c:\users\helmi.ruslan\documents\strukdat\task\asd_task_5\player.h
+	"list.h"
+

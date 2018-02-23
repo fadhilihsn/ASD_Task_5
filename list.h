@@ -13,7 +13,8 @@
 
 using namespace std;
 
-struct music {
+struct music
+{
     int ID;
     string name;
     string location;
@@ -27,16 +28,20 @@ typedef struct elmlist *address;
 * IMPLEMENT CIRCULAR DOUBLE LINKED LIST
 */
 
-struct elmlist {
+struct elmlist
+{
     //------------- your code here -----------
-
-
+    infotype info;
+    address prev;
+    address next;
     //----------------------------------------
 };
 
-struct List {
+struct List
+{
     //------------- your code here -----------
-
+    address first;
+    address last;
     //----------------------------------------
 };
 
